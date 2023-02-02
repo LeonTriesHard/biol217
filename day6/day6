@@ -1,0 +1,17 @@
+Evaluation of our starting databases (Directory: 02_contigs-dbs)
+
+Task: Take some time to click through the views and compare the MAGs. Add a screenshot of your output to your documentation. Answer the following Questions:
+
+Question: How do the MAGs compare in size and number of contigs to the full genome?
+
+Answer
+
+    Full Genome 3,3 mb; contigs shorter 1,3 - 2,6 mb
+
+Question: Based on the contig numbers, sizes and number of marker genes (HMM hits), which two MAGs are the best and which is the worst?
+
+Answer
+ bin 9 and bin 13 are promissing large contigs, high total length, high n50  (avril's choice: )
+    shot contigs are bad --> bin 10 worst (avril's choice: bin 5 ) high number contigs, low n50, low annotated arch. proteins
+
+completeness bestimmung:  weniger als 70% fliegt raus (bin5 bin10)
